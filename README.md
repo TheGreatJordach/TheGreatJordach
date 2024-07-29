@@ -10,3 +10,4 @@
 TheGreatJordach/TheGreatJordach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://wakatime.com/@018ebde5-003c-47c2-8ab0-3530226c609b"><img src="https://wakatime.com/badge/user/018ebde5-003c-47c2-8ab0-3530226c609b.svg" alt="Total time coded since Apr 8 2024" /></a>
