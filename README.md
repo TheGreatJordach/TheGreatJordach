@@ -1,7 +1,6 @@
 ### Hi there 👋 Hi, I’m Jordach Makaya
 
-### Ex-Customer Advocate, Now Building the Future: Software Engineer passionate about crafting delightful user experiences..
-
+#### Ex-Customer Advocate, Now Building the Future: Software Engineer passionate about crafting delightful user experiences..
   
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
