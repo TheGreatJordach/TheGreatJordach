@@ -1,6 +1,24 @@
 ### Hi there 👋 Hi, I’m Jordach Makaya
 
 #### Ex-Customer Advocate, Now Building the Future: Software Engineer passionate about crafting delightful user experiences..
+
+<br>
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=TheGreatJordach&label=Profile%20views&color=0e75b6&style=flat" alt="clixmat" />
+	<a href="https://wakatime.com/@018ebde5-003c-47c2-8ab0-3530226c609b"><img src="https://wakatime.com/badge/user/018ebde5-003c-47c2-8ab0-3530226c609b.svg" alt="Total time coded since Apr 8 2024" /></a>
+</div>
+<br>
+<div align="left">
+	<a href="mailto:solidstacksolutions@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+	</a>
+	<a href="https://pe.linkedin.com/in/jordachmakaya" target="_blank">
+   		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+	</a>
+</div>
+<br>
+<!-- PROFILE:START -->
+
   
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -44,4 +62,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<a href="https://wakatime.com/@018ebde5-003c-47c2-8ab0-3530226c609b"><img src="https://wakatime.com/badge/user/018ebde5-003c-47c2-8ab0-3530226c609b.svg" alt="Total time coded since Apr 8 2024" /></a>
+
