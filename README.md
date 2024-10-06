@@ -1,5 +1,5 @@
 ### Hi there 👋 Hi, I’m Jordach Makaya
-
+![](Jordach_Makaya_git.jpg)
 #### Ex-Customer Advocate, Now Building the Future: Software Engineer passionate about crafting delightful user experiences..
 
 <br>
